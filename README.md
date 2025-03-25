@@ -28,3 +28,7 @@ npx tailwindcss -i ./input.css -o ./output.css --watch
 ```
 
 3. To deploy you will only need the `index.html` file and the `output.css` styles.
+
+## Screenshot
+
+![Website screenshot](./images/website-screenshot.png)
